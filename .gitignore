@@ -1,0 +1,5 @@
+# Cargo / Rust
+/target
+
+# IDE
+/.idea/
